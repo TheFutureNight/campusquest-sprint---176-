@@ -1,5 +1,5 @@
 Сметанин Андрей 
-Commit message: docs: describe score and progress
+describe score and progress
 # Баллы и прогресс
 
 ## Зачем нужна
