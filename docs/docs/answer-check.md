@@ -1,5 +1,5 @@
 Холматов Самир 
-Commit message: docs: describe answer checking
+described answer checking
 # Проверка ответа
 
 ## Зачем нужна
