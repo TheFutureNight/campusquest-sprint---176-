@@ -1,6 +1,6 @@
 
 Овод Дамир 
-docs: described clue card scenario
+described clue card scenario
 # Карточка загадки 
  
 ## Зачем нужна 
