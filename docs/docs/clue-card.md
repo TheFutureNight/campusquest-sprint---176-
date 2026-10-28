@@ -1,6 +1,6 @@
 
 Овод Дамир 
-Commit message: docs: describe clue card scenario 
+docs: described clue card scenario
 # Карточка загадки 
  
 ## Зачем нужна 
